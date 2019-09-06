@@ -298,6 +298,8 @@ time.sleep(.5)
 print('For example, if you wanted to move the bottom rightmost piece')
 print('you would type "9,6" and it would move forward')
 time.sleep(.5)
+print('remember that you can only eat diagonaly')
+time.sleep(.5)
 
 gb.reset_board()
 while True:
